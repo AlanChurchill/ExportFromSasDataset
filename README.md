@@ -1,6 +1,6 @@
 # ExportFromSasDataset
 
-Allows the exporting of a SAS dataset tp a delimited file with more formatted values as well as labels
+Allows the exporting of a SAS dataset to a delimited file with more formatted values as well as labels
 
 ### Requires
 #### Sas Local Provider (OleDB/ODBC)
